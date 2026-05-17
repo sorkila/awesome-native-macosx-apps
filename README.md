@@ -64,6 +64,7 @@ _Join early subscribers and never miss a great native Mac app again. Unsubscribe
 - [Terminal & Shell](#terminal--shell)
 - [Text Editors](#text-editors)
 - [Video & Media](#video--media)
+- [Wallpaper Apps](#wallpaper-apps)
 - [Window Management](#window-management)
 
 **Resources**
@@ -386,6 +387,10 @@ curl -sL https://raw.githubusercontent.com/open-saas-directory/awesome-native-ma
 - [QuickTime Player](https://support.apple.com/guide/quicktime-player/) - Built-in media player for macOS. `Free`
 - [Subler](https://subler.org/) - Mux and tag MP4 files. `Free` `Open Source`
 - [VLC](https://www.videolan.org/vlc/) - Cross-platform multimedia player. `Free` `Open Source` `EU`
+
+## Wallpaper Apps
+
+- [Wallspace](https://wallspace.app/) - Live Wallpapers for Macos, with custom lock screen. `Freemium`
 
 ## Window Management
 
